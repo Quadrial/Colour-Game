@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: url("images/bg1.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
